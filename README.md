@@ -59,7 +59,7 @@
 
 
 <div align="center">
-  <h3>Github Stats</h3>
+  <h3>Github Status</h3>
 </div>
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saswat-Kumar-Pradhan&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Kumar-Pradhan&theme=radical) 
