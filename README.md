@@ -69,7 +69,7 @@
   <h3>My Projects</h3>
 </div>
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=DIGITAL-CLOCK&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/DIGITAL-CLOCK)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=.BLOG&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/.BLOG)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=ASIDE-SIMILAR-GAME&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/ASIDE-SIMILAR-GAME)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=APP-DOWNLOAD-TASK&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/APP-DOWNLOAD-TASK)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=DIGITAL-CLOCK&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/DigitalLock.git)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=.BLOG&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/TodoList.git)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=ASIDE-SIMILAR-GAME&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/weather.git)
+[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=APP-DOWNLOAD-TASK&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/user.git)
