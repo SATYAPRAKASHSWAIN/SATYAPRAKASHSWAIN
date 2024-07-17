@@ -62,7 +62,7 @@
   <h3>Github Status</h3>
 </div>
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saswat-Kumar-Pradhan&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAPRAKASHSWAIN&theme=radical) 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SATYAPRAKASHSWAIN&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAPRAKASHSWAIN&theme=radical) 
 
 <br><br>
 <div align="center">
