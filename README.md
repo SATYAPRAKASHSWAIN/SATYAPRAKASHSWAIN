@@ -70,6 +70,6 @@
 </div>
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=DigitalLock&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/DigitalLock.git)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=.BLOG&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/TodoList.git)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=ASIDE-SIMILAR-GAME&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/weather.git)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=APP-DOWNLOAD-TASK&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/user.git)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=TodoList&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/TodoList.git)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=weather&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/weather.git)
+[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=user&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/user.git)
