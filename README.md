@@ -71,5 +71,5 @@
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=DigitalLock&theme=radical)](https://satyaprakashswain.github.io/DigitalLock/)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=TodoList&theme=radical)](https://satyaprakashswain.github.io/TodoList/)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=weather&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/weather.git)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=weather&theme=radical)](https://satyaprakashswain.github.io/weather/)
 [![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=SATYAPRAKASHSWAIN&repo=user&theme=radical)](https://github.com/SATYAPRAKASHSWAIN/user.git)
