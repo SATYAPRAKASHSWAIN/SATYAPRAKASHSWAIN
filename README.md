@@ -12,7 +12,7 @@
 </div><br>
 <div align="center">  
   
-  [Satyaprakash.com](https://satyaprakash.com)
+  [Satyaprakash.com](https://satyaprakashswain.github.io/my-portfolio/) 
 </div>
 <br><br>
 
@@ -23,7 +23,7 @@
 ---
 
 
-- 🌐 Visit my portfolio website: [Satyaprakash.com](https://Satyaprakash.com)
+- 🌐 Visit my portfolio website: [Satyaprakash.com](https://satyaprakashswain.github.io/my-portfolio/)
 - 🌱 I’m currently learning React.js and Angular.js
 - 👨‍💻 I'm proficient in HTML, CSS, JavaScript, Python, and Java.
 - 🚀 I love building sleek and efficient web applications.
